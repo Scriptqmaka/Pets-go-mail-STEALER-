@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://github.com/Scriptqmaka/Pets-go-mail-script-/tree/main", true))()
-script 
+SCRIPT: loadstring(game:HttpGet("https://github.com/Scriptqmaka/Pets-go-mail-script-/tree/main", true))()
